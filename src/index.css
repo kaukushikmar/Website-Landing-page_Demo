@@ -33,7 +33,7 @@ input{
   position: relative;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url('./images/background.png');
+  background-image: url('./images/background.jpg');
 }
 nav{
 display: flex;
